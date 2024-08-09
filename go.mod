@@ -1,4 +1,4 @@
-module example/hello
+module avail-go-sdk
 
 go 1.21.0
 
